@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/is-not-cool/registration/pull/9#issuecomment-2411843010) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
-2. 💪 Opened PR [#9](https://github.com/is-not-cool/registration/pull/9) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
-3. 💪 Opened PR [#5](https://github.com/is-not-cool/registration/pull/5) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
-4. 💪 Opened PR [#23](https://github.com/ScathachGrip/merahputih.moe/pull/23) in [ScathachGrip/merahputih.moe](https://github.com/ScathachGrip/merahputih.moe)
-5. 🎉 Merged PR [#5](https://github.com/ukriu/ukriu.github.io/pull/5) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+1. 🗣 Commented on [#9](https://github.com/is-not-cool/registration/pull/9#issuecomment-2412022847) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
+2. 🗣 Commented on [#9](https://github.com/is-not-cool/registration/pull/9#issuecomment-2411843010) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
+3. 💪 Opened PR [#9](https://github.com/is-not-cool/registration/pull/9) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
+4. 💪 Opened PR [#5](https://github.com/is-not-cool/registration/pull/5) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
+5. 💪 Opened PR [#23](https://github.com/ScathachGrip/merahputih.moe/pull/23) in [ScathachGrip/merahputih.moe](https://github.com/ScathachGrip/merahputih.moe)
 <!--END_SECTION:activity-->
 <br>
 
