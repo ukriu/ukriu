@@ -12,8 +12,8 @@
 </div>
 <h3>🏆 Trophies</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4&theme=darkhub">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ukrioo&no-frame=true&no-bg=true&column=4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ukriu&no-frame=true&no-bg=true&column=4&theme=darkhub">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ukriu&no-frame=true&no-bg=true&column=4">
   <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=ukriu&no-frame=true&no-bg=true&column=4&theme=darkhub">
 </picture>
 
