@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16623](https://github.com/is-a-dev/register/pull/16623#issuecomment-2419622944) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#16623](https://github.com/is-a-dev/register/pull/16623) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#12](https://github.com/is-not-cool/registration/pull/12#issuecomment-2412924310) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
-4. 💪 Opened PR [#12](https://github.com/is-not-cool/registration/pull/12) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
-5. 🗣 Commented on [#9](https://github.com/is-not-cool/registration/pull/9#issuecomment-2412022847) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
+1. 💪 Opened PR [#16633](https://github.com/is-a-dev/register/pull/16633) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#16623](https://github.com/is-a-dev/register/pull/16623#issuecomment-2419622944) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 💪 Opened PR [#16623](https://github.com/is-a-dev/register/pull/16623) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#12](https://github.com/is-not-cool/registration/pull/12#issuecomment-2412924310) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
+5. 💪 Opened PR [#12](https://github.com/is-not-cool/registration/pull/12) in [is-not-cool/registration](https://github.com/is-not-cool/registration)
 <!--END_SECTION:activity-->
 <br>
 
