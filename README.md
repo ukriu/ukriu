@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16633](https://github.com/is-a-dev/register/pull/16633#issuecomment-2424865408) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#16633](https://github.com/is-a-dev/register/pull/16633#issuecomment-2423656922) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🎉 Merged PR [#6](https://github.com/ukriu/ukriu.github.io/pull/6) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-4. 🗣 Commented on [#6](https://github.com/ukriu/ukriu.github.io/pull/6#issuecomment-2423653706) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-5. 💪 Opened PR [#16633](https://github.com/is-a-dev/register/pull/16633) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 💪 Opened PR [#9](https://github.com/partofmyid/register/pull/9) in [partofmyid/register](https://github.com/partofmyid/register)
+2. 🗣 Commented on [#16633](https://github.com/is-a-dev/register/pull/16633#issuecomment-2424865408) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#16633](https://github.com/is-a-dev/register/pull/16633#issuecomment-2423656922) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🎉 Merged PR [#6](https://github.com/ukriu/ukriu.github.io/pull/6) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+5. 🗣 Commented on [#6](https://github.com/ukriu/ukriu.github.io/pull/6#issuecomment-2423653706) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
 <!--END_SECTION:activity-->
 <br>
 
