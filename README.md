@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16823](https://github.com/is-a-dev/register/pull/16823#issuecomment-2439348575) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🎉 Merged PR [#3](https://github.com/really-is-a-dev/register/pull/3) in [really-is-a-dev/register](https://github.com/really-is-a-dev/register)
-3. 🗣 Commented on [#3](https://github.com/really-is-a-dev/register/pull/3#issuecomment-2439115351) in [really-is-a-dev/register](https://github.com/really-is-a-dev/register)
-4. 💪 Opened PR [#16824](https://github.com/is-a-dev/register/pull/16824) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🎉 Merged PR [#2](https://github.com/really-is-a-dev/register/pull/2) in [really-is-a-dev/register](https://github.com/really-is-a-dev/register)
+1. 🎉 Merged PR [#4](https://github.com/really-is-a-dev/register/pull/4) in [really-is-a-dev/register](https://github.com/really-is-a-dev/register)
+2. 🗣 Commented on [#16823](https://github.com/is-a-dev/register/pull/16823#issuecomment-2439348575) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🎉 Merged PR [#3](https://github.com/really-is-a-dev/register/pull/3) in [really-is-a-dev/register](https://github.com/really-is-a-dev/register)
+4. 🗣 Commented on [#3](https://github.com/really-is-a-dev/register/pull/3#issuecomment-2439115351) in [really-is-a-dev/register](https://github.com/really-is-a-dev/register)
+5. 💪 Opened PR [#16824](https://github.com/is-a-dev/register/pull/16824) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 <br>
 
