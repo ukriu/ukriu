@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#16922](https://github.com/is-a-dev/register/pull/16922) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#16922](https://github.com/is-a-dev/register/pull/16922#issuecomment-2448967855) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ❌ Closed PR [#16922](https://github.com/is-a-dev/register/pull/16922) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#16922](https://github.com/is-a-dev/register/pull/16922) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🎉 Merged PR [#4](https://github.com/really-is-a-dev/register/pull/4) in [really-is-a-dev/register](https://github.com/really-is-a-dev/register)
+1. 💪 Opened PR [#14](https://github.com/backslashxx/bindhosts/pull/14) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+2. ❌ Reopened PR [#16922](https://github.com/is-a-dev/register/pull/16922) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 🗣 Commented on [#16922](https://github.com/is-a-dev/register/pull/16922#issuecomment-2448967855) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ❌ Closed PR [#16922](https://github.com/is-a-dev/register/pull/16922) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#16922](https://github.com/is-a-dev/register/pull/16922) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 <br>
 
