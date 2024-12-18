@@ -43,10 +43,10 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/backslashxx/bindhosts/pull/14#issuecomment-2508901868) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-2. 🗣 Commented on [#14](https://github.com/backslashxx/bindhosts/pull/14#issuecomment-2508901243) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-3. 💪 Opened PR [#14](https://github.com/backslashxx/bindhosts/pull/14) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-4. ❌ Reopened PR [#16922](https://github.com/is-a-dev/register/pull/16922) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 💪 Opened PR [#37](https://github.com/backslashxx/bindhosts/pull/37) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+2. 🗣 Commented on [#14](https://github.com/backslashxx/bindhosts/pull/14#issuecomment-2508901868) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+3. 🗣 Commented on [#14](https://github.com/backslashxx/bindhosts/pull/14#issuecomment-2508901243) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+4. 💪 Opened PR [#14](https://github.com/backslashxx/bindhosts/pull/14) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
 5. 🗣 Commented on [#16922](https://github.com/is-a-dev/register/pull/16922#issuecomment-2448967855) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 <br>
