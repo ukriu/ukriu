@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#137](https://github.com/TrebleDroid/vendor_hardware_overlay/pull/137) in [TrebleDroid/vendor_hardware_overlay](https://github.com/TrebleDroid/vendor_hardware_overlay)
-2. 💪 Opened PR [#37](https://github.com/backslashxx/bindhosts/pull/37) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-3. 🗣 Commented on [#14](https://github.com/backslashxx/bindhosts/pull/14#issuecomment-2508901868) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-4. 🗣 Commented on [#14](https://github.com/backslashxx/bindhosts/pull/14#issuecomment-2508901243) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-5. 💪 Opened PR [#14](https://github.com/backslashxx/bindhosts/pull/14) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+1. 🗣 Commented on [#17846](https://github.com/is-a-dev/register/pull/17846#issuecomment-2561695614) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#17846](https://github.com/is-a-dev/register/pull/17846) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 💪 Opened PR [#137](https://github.com/TrebleDroid/vendor_hardware_overlay/pull/137) in [TrebleDroid/vendor_hardware_overlay](https://github.com/TrebleDroid/vendor_hardware_overlay)
+4. 💪 Opened PR [#37](https://github.com/backslashxx/bindhosts/pull/37) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+5. 🗣 Commented on [#14](https://github.com/backslashxx/bindhosts/pull/14#issuecomment-2508901868) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
 <!--END_SECTION:activity-->
 <br>
 
