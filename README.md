@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/backslashxx/bindhosts/pull/51#issuecomment-2585762027) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-2. 💪 Opened PR [#51](https://github.com/backslashxx/bindhosts/pull/51) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-3. ❗ Opened issue [#26](https://github.com/sidex15/ksu_module_susfs/issues/26) in [sidex15/ksu_module_susfs](https://github.com/sidex15/ksu_module_susfs)
-4. 💪 Opened PR [#13](https://github.com/Stef-00012/Zipline-Upload-Extension/pull/13) in [Stef-00012/Zipline-Upload-Extension](https://github.com/Stef-00012/Zipline-Upload-Extension)
-5. 🗣 Commented on [#34](https://github.com/mizukn/jolyne/pull/34#issuecomment-2561955817) in [mizukn/jolyne](https://github.com/mizukn/jolyne)
+1. ❌ Closed PR [#51](https://github.com/backslashxx/bindhosts/pull/51) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+2. 🗣 Commented on [#51](https://github.com/backslashxx/bindhosts/pull/51#issuecomment-2585762027) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+3. 💪 Opened PR [#51](https://github.com/backslashxx/bindhosts/pull/51) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+4. ❗ Opened issue [#26](https://github.com/sidex15/ksu_module_susfs/issues/26) in [sidex15/ksu_module_susfs](https://github.com/sidex15/ksu_module_susfs)
+5. 💪 Opened PR [#13](https://github.com/Stef-00012/Zipline-Upload-Extension/pull/13) in [Stef-00012/Zipline-Upload-Extension](https://github.com/Stef-00012/Zipline-Upload-Extension)
 <!--END_SECTION:activity-->
 <br>
 
