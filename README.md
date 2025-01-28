@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2365](https://github.com/tiann/KernelSU/pull/2365) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
-2. ❌ Closed PR [#51](https://github.com/backslashxx/bindhosts/pull/51) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-3. 🗣 Commented on [#51](https://github.com/backslashxx/bindhosts/pull/51#issuecomment-2585762027) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-4. 💪 Opened PR [#51](https://github.com/backslashxx/bindhosts/pull/51) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
-5. ❗ Opened issue [#26](https://github.com/sidex15/ksu_module_susfs/issues/26) in [sidex15/ksu_module_susfs](https://github.com/sidex15/ksu_module_susfs)
+1. ❌ Closed PR [#2365](https://github.com/tiann/KernelSU/pull/2365) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
+2. 💪 Opened PR [#2365](https://github.com/tiann/KernelSU/pull/2365) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
+3. ❌ Closed PR [#51](https://github.com/backslashxx/bindhosts/pull/51) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+4. 🗣 Commented on [#51](https://github.com/backslashxx/bindhosts/pull/51#issuecomment-2585762027) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+5. 💪 Opened PR [#51](https://github.com/backslashxx/bindhosts/pull/51) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
 <!--END_SECTION:activity-->
 <br>
 
