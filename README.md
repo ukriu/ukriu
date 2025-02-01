@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ukriu/ukriu.github.io/pull/7) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-2. 🗣 Commented on [#7](https://github.com/ukriu/ukriu.github.io/pull/7#issuecomment-2622956594) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-3. ❌ Closed PR [#2365](https://github.com/tiann/KernelSU/pull/2365) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
-4. 💪 Opened PR [#2365](https://github.com/tiann/KernelSU/pull/2365) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
-5. ❌ Closed PR [#51](https://github.com/backslashxx/bindhosts/pull/51) in [backslashxx/bindhosts](https://github.com/backslashxx/bindhosts)
+1. 💪 Opened PR [#2](https://github.com/backslashxx/mountify/pull/2) in [backslashxx/mountify](https://github.com/backslashxx/mountify)
+2. 🎉 Merged PR [#7](https://github.com/ukriu/ukriu.github.io/pull/7) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+3. 🗣 Commented on [#7](https://github.com/ukriu/ukriu.github.io/pull/7#issuecomment-2622956594) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+4. ❌ Closed PR [#2365](https://github.com/tiann/KernelSU/pull/2365) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
+5. 💪 Opened PR [#2365](https://github.com/tiann/KernelSU/pull/2365) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
 <!--END_SECTION:activity-->
 <br>
 
