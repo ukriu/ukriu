@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ukriu/ukriu.github.io/pull/9#issuecomment-2648784427) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-2. 🎉 Merged PR [#8](https://github.com/ukriu/ukriu.github.io/pull/8) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-3. 🗣 Commented on [#8](https://github.com/ukriu/ukriu.github.io/pull/8#issuecomment-2646087218) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-4. ❗ Opened issue [#133](https://github.com/rifsxd/KernelSU-Next/issues/133) in [rifsxd/KernelSU-Next](https://github.com/rifsxd/KernelSU-Next)
-5. 💪 Opened PR [#2](https://github.com/backslashxx/mountify/pull/2) in [backslashxx/mountify](https://github.com/backslashxx/mountify)
+1. ❌ Closed PR [#10](https://github.com/ukriu/ukriu.github.io/pull/10) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+2. 🗣 Commented on [#10](https://github.com/ukriu/ukriu.github.io/pull/10#issuecomment-2648821352) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+3. 🗣 Commented on [#10](https://github.com/ukriu/ukriu.github.io/pull/10#issuecomment-2648803688) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+4. 🗣 Commented on [#9](https://github.com/ukriu/ukriu.github.io/pull/9#issuecomment-2648784427) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+5. 🎉 Merged PR [#8](https://github.com/ukriu/ukriu.github.io/pull/8) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
 <!--END_SECTION:activity-->
 <br>
 
