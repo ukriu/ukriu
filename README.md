@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/ukriu/ukriu.github.io/pull/10) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-2. 🗣 Commented on [#10](https://github.com/ukriu/ukriu.github.io/pull/10#issuecomment-2648821352) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-3. 🗣 Commented on [#10](https://github.com/ukriu/ukriu.github.io/pull/10#issuecomment-2648803688) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-4. 🗣 Commented on [#9](https://github.com/ukriu/ukriu.github.io/pull/9#issuecomment-2648784427) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-5. 🎉 Merged PR [#8](https://github.com/ukriu/ukriu.github.io/pull/8) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+1. 🎉 Merged PR [#1](https://github.com/ukriu/KernelSU/pull/1) in [ukriu/KernelSU](https://github.com/ukriu/KernelSU)
+2. ❌ Closed PR [#10](https://github.com/ukriu/ukriu.github.io/pull/10) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+3. 🗣 Commented on [#10](https://github.com/ukriu/ukriu.github.io/pull/10#issuecomment-2648821352) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+4. 🗣 Commented on [#10](https://github.com/ukriu/ukriu.github.io/pull/10#issuecomment-2648803688) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+5. 🗣 Commented on [#9](https://github.com/ukriu/ukriu.github.io/pull/9#issuecomment-2648784427) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
 <!--END_SECTION:activity-->
 <br>
 
