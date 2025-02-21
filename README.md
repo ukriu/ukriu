@@ -43,11 +43,11 @@
 > ⚠️ Private Activity is NOT shown!
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/ScathachGrip/merahputih.moe/pull/23#issuecomment-2665003834) in [ScathachGrip/merahputih.moe](https://github.com/ScathachGrip/merahputih.moe)
-2. 💪 Opened PR [#2451](https://github.com/tiann/KernelSU/pull/2451) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
-3. 🎉 Merged PR [#1](https://github.com/ukriu/KernelSU/pull/1) in [ukriu/KernelSU](https://github.com/ukriu/KernelSU)
-4. ❌ Closed PR [#10](https://github.com/ukriu/ukriu.github.io/pull/10) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
-5. 🗣 Commented on [#10](https://github.com/ukriu/ukriu.github.io/pull/10#issuecomment-2648821352) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
+1. 🗣 Commented on [#2459](https://github.com/tiann/KernelSU/pull/2459#issuecomment-2672154188) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
+2. 🗣 Commented on [#23](https://github.com/ScathachGrip/merahputih.moe/pull/23#issuecomment-2665003834) in [ScathachGrip/merahputih.moe](https://github.com/ScathachGrip/merahputih.moe)
+3. 💪 Opened PR [#2451](https://github.com/tiann/KernelSU/pull/2451) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
+4. 🎉 Merged PR [#1](https://github.com/ukriu/KernelSU/pull/1) in [ukriu/KernelSU](https://github.com/ukriu/KernelSU)
+5. ❌ Closed PR [#10](https://github.com/ukriu/ukriu.github.io/pull/10) in [ukriu/ukriu.github.io](https://github.com/ukriu/ukriu.github.io)
 <!--END_SECTION:activity-->
 <br>
 
